@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test Suite"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.009">
+  <properties />
+  
+  
+            <testcase name="AddItemToCart" time="0.006" classname="com.testngpractise.TestNGGroupExample" />
+                <testcase name="Login" time="0.001" classname="com.testngpractise.TestNGGroupExample" />
+                <testcase name="OpenBrowser" time="0.001" classname="com.testngpractise.TestNGGroupExample" />
+                <testcase name="closeBrowser" time="0.001" classname="com.testngpractise.TestNGGroupExample" />
+      
+</testsuite>
